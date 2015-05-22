@@ -1,0 +1,22 @@
+{
+  "name": "corpart",
+  "version": "0.0.0",
+  "authors": [
+    "Robert W Boyer <rwboyer@mac.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
