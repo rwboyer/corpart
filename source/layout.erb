@@ -11,28 +11,48 @@
   </head>
   <body onload="$(document).foundation();">
     <div class="off-canvas-wrap" data-offcanvas>
-      <div class="inner-wrap">
+    <div class="inner-wrap">
 
-        <a class="left-off-canvas-toggle" href="#" >Menu</a>
+    <nav class="tab-bar show-for-small">
+      <a class="left-off-canvas-toggle menu-icon" href="#">
+        <span>Foundation</span>
+      </a>
+    </nav>
+    <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <%= partial "menu" %>
+      </ul>
+     </aside>
 
-        <!-- Off Canvas Menu -->
-        <nav class="left-off-canvas-menu">
-          <ul class="off-canvas-list">
-            <li><label>Foundation</label></li>
-            <li><a href="#">The Psychohistorians</a></li>
-            <li><a href="#">The Encyclopedists</a></li>
-            <li><a href="#">The Mayors</a></li>
-            <li><a href="#">The Traders</a></li>
-            <li><a href="#">The Merchant Princes</a></li>
-          </ul>
-        </nav>
-        <!-- main content goes here -->
-        <p>Set in the year 0 F.E. ("Foundation Era"), The Psychohistorians opens on Trantor, the capital of the 12,000-year-old Galactic Empire. Though the empire appears stable and powerful, it is slowly decaying in ways that parallel the decline of the Western Roman Empire. Hari Seldon, a mathematician and psychologist, has developed psychohistory, a new field of science and psychology that equates all possibilities in large societies to mathematics, allowing for the prediction of future events.</p>
 
-      <!-- close the off-canvas menu -->
-      <a class="exit-off-canvas"></a>
+    <div class="wrapper">
 
+      <div class="large-3 medium-4 columns">
+        <div class="hide-for-small">
+          <div class="sidebar">
+            <nav>
+              <ul class="side-nav">
+                <%= partial "menu" %>
+              </ul>
+            </nav>
+          </div>
+        </div>
       </div>
+
+      <div class="large-9 medium-8 columns">    
+
+        <div id="main" role="main">
+          <%= yield %>
+        </div>
+      
+      </div>
+
     </div>
+
+      <a class="exit-off-canvas"></a>
+      
+    </div>
+    </div>
+
   </body>
 </html>
