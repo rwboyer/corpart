@@ -9,75 +9,30 @@
     <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
-  <body>
-    <div class="off-canvas-wrap">
+  <body onload="$(document).foundation();">
+    <div class="off-canvas-wrap" data-offcanvas>
+      <div class="inner-wrap">
 
-    <nav class="tab-bar show-for-small">
-      <a class="left-off-canvas-toggle menu-icon">
-        <span>Foundation</span>
-      </a>
-    </nav>
-    <aside class="left-off-canvas-menu">
-      <ul class="off-canvas-list">
-        <li><a href="#">Link 1</a></li>
-        <li><a href="#">Link 2</a></li>
-        <li><a href="#">Link 3</a></li>
-        <li><a href="#">Link 4</a></li>
-      </ul>
-     </aside>
-     <a class="exit-off-canvas" href="#"></a>
+        <a class="left-off-canvas-toggle" href="#" >Menu</a>
 
+        <!-- Off Canvas Menu -->
+        <nav class="left-off-canvas-menu">
+          <ul class="off-canvas-list">
+            <li><label>Foundation</label></li>
+            <li><a href="#">The Psychohistorians</a></li>
+            <li><a href="#">The Encyclopedists</a></li>
+            <li><a href="#">The Mayors</a></li>
+            <li><a href="#">The Traders</a></li>
+            <li><a href="#">The Merchant Princes</a></li>
+          </ul>
+        </nav>
+        <!-- main content goes here -->
+        <p>Set in the year 0 F.E. ("Foundation Era"), The Psychohistorians opens on Trantor, the capital of the 12,000-year-old Galactic Empire. Though the empire appears stable and powerful, it is slowly decaying in ways that parallel the decline of the Western Roman Empire. Hari Seldon, a mathematician and psychologist, has developed psychohistory, a new field of science and psychology that equates all possibilities in large societies to mathematics, allowing for the prediction of future events.</p>
 
-    <div class="wrapper">
+      <!-- close the off-canvas menu -->
+      <a class="exit-off-canvas"></a>
 
-      <div class="large-3 medium-4 columns">
-        <div class="hide-for-small">
-          <div class="sidebar">
-            <nav>
-              <ul class="side-nav">
-                <li><a href="#">Link 1</a></li>
-                <li><a href="#">Link 2</a></li>
-                <li><a href="#">Link 3</a></li>
-                <li><a href="#">Link 4</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
       </div>
-
-      <div class="large-9 medium-8 columns">    
-
-        <div id="main" role="main">
-          <%= yield %>
-        </div>
-      
-        <aside class="crap">
-          <h2>Recent Articles</h2>
-          <ol>
-            <% blog.articles[0...10].each do |article| %>
-              <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
-            <% end %>
-          </ol>
-
-          <h2>Tags</h2>
-          <ol>
-            <% blog.tags.each do |tag, articles| %>
-              <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
-            <% end %>
-          </ol>
-
-          <h2>By Year</h2>
-          <ol>
-            <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-              <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-            <% end %>
-          </ol>
-        </aside>
-      </div>
-
     </div>
-
-    </div>
-
   </body>
 </html>
