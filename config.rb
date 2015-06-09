@@ -1,3 +1,5 @@
+require "image_tag"
+
 ###
 # Blog settings
 ###
@@ -38,6 +40,7 @@ page "/feed.xml", layout: false
 # Change Compass configuration
  compass_config do |config|
    config.add_import_path "bower_components/foundation/scss"
+   config.add_import_path File.join "#{root}", "js/lightview3/css/lightview"
    config.output_style = :compact
  end
 
@@ -62,6 +65,10 @@ page "/feed.xml", layout: false
 # with_layout :admin do
 #   page "/admin/*"
 # end
+# 
+
+# ignore "/bower_components/"
+
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
