@@ -1,7 +1,7 @@
 ---
 title: About Les Picker Fine Art Photography
 ---
-## About Les Picker Fine Art Photography (LPFA)
+## About Les Picker Fine Art Photography
 
 At LPFA our mission is to bring the beauty of nature to discriminating fine art collectors, corporations, institutions and private homes. We are committed to excellence in everything we do, including customer relations. We understand the decorating needs of our clients, and have never missed a deadline. 
 
