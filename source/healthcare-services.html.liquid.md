@@ -14,10 +14,9 @@ Healthcare In the United States is in the midst of radical changes. Major advanc
 
 Yet one aspect of health care has not changed, and that is the unwavering commitment by healthcare professionals to best practices in patient care. Healing the patient - promoting the best health outcomes - remains the defining motivation of health care professionals.
 
+
+<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131034191">Hospital promo v5-HD</a> from <a href="https://vimeo.com/user8615735">Robert Boyer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ---
-
-[LINK TO VIDEO]
-
 
 ### Emerging Research
 

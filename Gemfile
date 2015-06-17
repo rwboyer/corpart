@@ -9,3 +9,4 @@ gem "middleman-blog", "~> 3.5.3"
 gem "builder", "~> 3.0"
 
 gem "liquid"
+gem "nokogiri"

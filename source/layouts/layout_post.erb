@@ -1,0 +1,33 @@
+<% wrap_layout :layout do %>      
+        <article class="crap">
+          <h2 class="entry-title"><%= current_article.title %></h2>
+          <p class="meta">
+            <time><%= current_article.date.strftime('%b %e %Y') %></time>
+          <!--
+            {% if site.disqus_short_name and page.comments != false and site.disqus_show_comment_count == true %}
+             | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
+            {% endif %}
+          -->
+          </p>
+          <div class="entry-content"><%= current_article.body %></div>
+
+<!--
+          <h2>Tags</h2>
+          <ol>
+            <% blog.tags.each do |tag, articles| %>
+              <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+            <% end %>
+          </ol>
+
+          <h2>By Year</h2>
+          <ol>
+            <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+              <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
+            <% end %>
+          </ol>
+        </aside>
+
+-->
+
+      </article>
+<% end %>      
