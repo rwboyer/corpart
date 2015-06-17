@@ -1,14 +1,14 @@
 ---
 title: About Les Picker Fine Art Photography
 ---
-# Services
+## Services
 
-## Purpose Imagery
+### Purpose Imagery
 In some cases, our clients require customized images. Perhaps a medical rehabilitation facility needs images of specific locations to help patients adjust to the outside world. Or a corporate client requires images of their new campus. Or a nonprofit organization wants images of the children it serves. We pride ourselves in being able to deliver complex images with visual punch. We aim for a WOW! factor in all our imagery.
 
 ---
 
-## New Healthcare
+### New Healthcare
 
 Healthcare In the United States is in the midst of radical changes. Major advances in technology have changed the face of medical services delivery. Government policies have forced healthcare institutions to adjust to the pressures of a new fiscal reality. And patient care has been changed by technology-driven consumerism. 
 
@@ -19,7 +19,7 @@ Yet one aspect of health care has not changed, and that is the unwavering commit
 [LINK TO VIDEO]
 
 
-## Emerging Research
+### Emerging Research
 
 So focused has medicine been on the patient’s illness, little attention until recently has been paid to the treatment environment itself. Now emerging research clearly demonstrates that patient outcomes are improved, in some cases significantly, by attending to the surroundings in which health care is administered, reducing anxiety, improving feelings of well-being, and increasing positive patient outcomes.
 
@@ -39,7 +39,7 @@ Other research confirms these findings.
 
 ---
 
-## Les Picker Fine Art Photography
+### Les Picker Fine Art Photography
 
 At Les Picker Fine Art Photography we are dedicated to helping health care institutions of every size create a more nurturing, calm and anxiety-reducing environment for their patients, visitors and staff. 
 

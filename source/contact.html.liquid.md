@@ -2,7 +2,7 @@
 title: About Les Picker Fine Art Photography
 ---
 
-# Contact
+## Contact
 
 Our studio is located in Havre de Grace, Maryland, U.S.A. We welcome clients to our studio by appointment. 
 
