@@ -20,9 +20,9 @@ We are happiest when we can be brought in at the design stage of a project, offe
 Our clients report that our health care installations have immeasurably helped patients and staff. Please watch our short video to hear health care staff discuss how our artwork transformed their care environment.
 
 ---
-
-[LINK TO VIDEO]
-
+<div class="flex-video widescreen vimeo">
+	<iframe src="https://player.vimeo.com/video/131086321?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 ---
 
 ### Purpose Imagery
