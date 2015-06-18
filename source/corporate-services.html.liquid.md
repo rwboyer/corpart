@@ -1,7 +1,7 @@
 ---
 title: About Les Picker Fine Art Photography
 ---
-## Services
+## Corporate Services
 
 
 ### Nature and Travel Art

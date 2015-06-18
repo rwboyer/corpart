@@ -9,7 +9,7 @@
     <%= javascript_include_tag "modernizr" %>
     <%= javascript_include_tag  "all" %>
     <%= stylesheet_link_tag "all" %>
-    <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <title>Art Services<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
   <body onload="$(document).foundation();">

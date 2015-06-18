@@ -1,7 +1,7 @@
 ---
 title: About Les Picker Fine Art Photography
 ---
-## Services
+## Health Care Services
 
 ### Purpose Imagery
 In some cases, our clients require customized images. Perhaps a medical rehabilitation facility needs images of specific locations to help patients adjust to the outside world. Or a corporate client requires images of their new campus. Or a nonprofit organization wants images of the children it serves. We pride ourselves in being able to deliver complex images with visual punch. We aim for a WOW! factor in all our imagery.
@@ -14,8 +14,9 @@ Healthcare In the United States is in the midst of radical changes. Major advanc
 
 Yet one aspect of health care has not changed, and that is the unwavering commitment by healthcare professionals to best practices in patient care. Healing the patient - promoting the best health outcomes - remains the defining motivation of health care professionals.
 
-
-<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131034191">Hospital promo v5-HD</a> from <a href="https://vimeo.com/user8615735">Robert Boyer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="flex-video widescreen vimeo">
+	<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 ---
 
 ### Emerging Research
