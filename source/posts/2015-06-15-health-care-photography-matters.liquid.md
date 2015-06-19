@@ -5,7 +5,7 @@ date: 2015-06-15
 tags: healthcare
 ---
 
-Today we are releasing a [video](https://vimeo.com/131034191) showcasing our work with health care facilities. As a professional photographer, I have to say that few things are as rewarding as knowing your images are helping people to heal.
+Today we are releasing a video showcasing our work with health care facilities. As a professional photographer, I have to say that few things are as rewarding as knowing your images are helping people to heal.
 
 <div class="flex-video widescreen vimeo">
 	<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
