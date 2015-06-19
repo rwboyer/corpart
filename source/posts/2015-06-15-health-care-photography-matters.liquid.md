@@ -5,7 +5,12 @@ date: 2015-06-15
 tags: healthcare
 ---
 
-Today we are releasing a [video](https://vimeo.com/131034191) showcasing our work with health care facilities. As a professional photographer, I have to say that few things are as rewarding as knowing your images are helping people to heal. 
+Today we are releasing a [video](https://vimeo.com/131034191) showcasing our work with health care facilities. As a professional photographer, I have to say that few things are as rewarding as knowing your images are helping people to heal.
+
+<div class="flex-video widescreen vimeo">
+	<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 
 A growing body of scientific literature clearly shows that patient health outcomes improve markedly when they are exposed to comforting images of our natural world during their treatment. That holds true whether in long-term care or in emergency settings. Health care treatment is often riddled with anxiety. Patients enter with troubling symptoms to begin with and these problems are exacerbated by the sterile atmosphere, bright lights and the anxiety of anticipating painful procedures.
 
