@@ -33,6 +33,7 @@ activate :blog do |blog|
 end
 
 page "/feed.xml", layout: false
+activate :directory_indexes
 
 ###
 # Compass
