@@ -1,10 +1,8 @@
 ---
 title: About Les Picker Fine Art Photography
 ---
-## Health Care Services
 
-### Purpose Imagery
-In some cases, our clients require customized images. Perhaps a medical rehabilitation facility needs images of specific locations to help patients adjust to the outside world. Or a corporate client requires images of their new campus. Or a nonprofit organization wants images of the children it serves. We pride ourselves in being able to deliver complex images with visual punch. We aim for a WOW! factor in all our imagery.
+## Health Care Services
 
 ---
 
@@ -14,34 +12,34 @@ Healthcare In the United States is in the midst of radical changes. Major advanc
 
 Yet one aspect of health care has not changed, and that is the unwavering commitment by healthcare professionals to best practices in patient care. Healing the patient - promoting the best health outcomes - remains the defining motivation of health care professionals.
 
-<div class="flex-video widescreen vimeo">
-	<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
----
 
 ### Emerging Research
 
-So focused has medicine been on the patient’s illness, little attention until recently has been paid to the treatment environment itself. Now emerging research clearly demonstrates that patient outcomes are improved, in some cases significantly, by attending to the surroundings in which health care is administered, reducing anxiety, improving feelings of well-being, and increasing positive patient outcomes.
+So focused has medicine been on the patient’s illness, little attention until recently has been paid to the treatment environment itself. Now emerging research clearly demonstrates that patient outcomes are improved, in some cases significantly, by attending to the surroundings in which health care is administered. The addition of visual art can help reduce stress for patients and increase satisfaction with care. 3
 
-In juried medical journals, researchers have found that:
+Art, specifically nature art, is a safe, inexpensive method that may reduce pain during painful and invasive medical procedures. 1,2
 
-> "Viewing a nature scene… is a safe, inexpensive method that may reduce pain during (high pain medical procedures)." Further the investigators state: "This approach should be considered to alleviate pain during invasive procedures." 1
+In juried medical journals, researchers report that patients exposed to nature images experience less post-operative anxiety and are more likely to switch to weaker painkillers than control groups. 4
 
-> "Distraction therapy withy nature sights… significantly reduces pain in patients undergoing (painful medical procedure). Clinicians should consider this noninvasive strategy in addition to standard analgesic medications in patients undergoing painful, invasive procedures." 2
+Nature images reduce anxiety, improve feelings of well-being, and increase positive patient outcomes. They also help calm restless behavior and noise levels in emergency department waiting rooms. 5
 
-Visual art can help reduce stress for patients and increase satisfaction with care. 3
-
-Patients exposed to a nature image experience less post-operative anxiety and are more likely to switch to weaker painkillers than control groups. 4
-
-Nature images  helped calm restless behavior and noise levels in two Texas emergency department waiting rooms. 5
-
-Other research confirms these findings. 
+Emerging research confirms and even extends the benefits reported by the presence of nature imagery in health care settings, whether doctor's offices, clinics or hospitals. 
+ 
 
 ---
 
 ### Les Picker Fine Art Photography
 
 At Les Picker Fine Art Photography we are dedicated to helping health care institutions of every size create a more nurturing, calm and anxiety-reducing environment for their patients, visitors and staff. 
+
+Please take a few minutes to listen to the testimonials of health care providers that we have served, as you see samples of our highly acclaimed, award-winning nature images. 
+
+<div class="flex-video widescreen vimeo">
+	<iframe src="https://player.vimeo.com/video/131034191?title=0&byline=0&portrait=0" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+—
+
+
 
 
 
